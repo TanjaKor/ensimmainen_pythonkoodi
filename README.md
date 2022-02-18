@@ -1,0 +1,1 @@
+# ensimmainen_pythonkoodi
